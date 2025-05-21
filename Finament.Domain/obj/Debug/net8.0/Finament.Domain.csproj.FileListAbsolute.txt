@@ -1,0 +1,11 @@
+/Users/denisfelst/Projects/finament/Finament.Domain/bin/Debug/net8.0/Finament.Domain.deps.json
+/Users/denisfelst/Projects/finament/Finament.Domain/bin/Debug/net8.0/Finament.Domain.dll
+/Users/denisfelst/Projects/finament/Finament.Domain/bin/Debug/net8.0/Finament.Domain.pdb
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/Finament.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/Finament.Domain.AssemblyInfoInputs.cache
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/Finament.Domain.AssemblyInfo.cs
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/Finament.Domain.csproj.CoreCompileInputs.cache
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/Finament.Domain.dll
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/refint/Finament.Domain.dll
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/Finament.Domain.pdb
+/Users/denisfelst/Projects/finament/Finament.Domain/obj/Debug/net8.0/ref/Finament.Domain.dll

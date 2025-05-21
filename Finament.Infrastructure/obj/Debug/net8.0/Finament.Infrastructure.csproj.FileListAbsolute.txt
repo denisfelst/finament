@@ -1,0 +1,17 @@
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/bin/Debug/net8.0/Finament.Infrastructure.deps.json
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/bin/Debug/net8.0/Finament.Infrastructure.dll
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/bin/Debug/net8.0/Finament.Infrastructure.pdb
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.AssemblyInfoInputs.cache
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.AssemblyInfo.cs
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.dll
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/refint/Finament.Infrastructure.dll
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.pdb
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/ref/Finament.Infrastructure.dll
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/bin/Debug/net8.0/Finament.Infrastructure.runtimeconfig.json
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/bin/Debug/net8.0/Finament.Domain.dll
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/bin/Debug/net8.0/Finament.Domain.pdb
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.csproj.AssemblyReference.cache
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.D69A1F3E.Up2Date
+/Users/denisfelst/Projects/finament/Finament.Infrastructure/obj/Debug/net8.0/Finament.Infrastructure.genruntimeconfig.cache
