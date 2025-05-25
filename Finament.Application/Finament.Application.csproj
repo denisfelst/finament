@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Finament.Domain\Finament.Domain.csproj" />
-    <ProjectReference Include="..\Finament.Infrastructure\Finament.Infrastructure.csproj" />
+    <ProjectReference Include="..\Finament.Repository\Finament.Repository.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

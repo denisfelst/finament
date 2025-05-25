@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finament.Application", "Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finament.Domain", "Finament.Domain\Finament.Domain.csproj", "{93CE7593-CF2B-4E85-9FFB-6F03468FDCDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finament.Infrastructure", "Finament.Infrastructure\Finament.Infrastructure.csproj", "{7D977C64-1DB0-482C-9A35-8500E1597052}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finament.Repository", "Finament.Repository\Finament.Repository.csproj", "{7D977C64-1DB0-482C-9A35-8500E1597052}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finament.Tests", "Finament.Tests\Finament.Tests.csproj", "{1A438E00-CDB6-454D-807D-FE8C9BAAAC55}"
 EndProject
